@@ -26,6 +26,14 @@ This driver has been tested against Flocker 1.4.0.
 
 You will need a Pure Storage FlashArray running Purity 4.0.0 or higher
 
+**Pure Storage Python Module**
+
+You will need to install the Pure Storage Rest API Python Module
+
+```bash
+sudo pip install purestorage
+```
+
 **iSCSI Initiator**
 
 The current version of this driver only support iSCSI. Please let us know if you are interested in fibre
