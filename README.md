@@ -14,6 +14,7 @@ The following components are required before using the Pure Storage Driver for F
 
 * A working Flocker installation
 * Pure Storage FlashArray FA-xxx or FA-//m array running Purity 4.0.0 or higher 
+* Pure Storage RestAPI Python module
 * iSCSI initiator installed on all nodes
 
 **Flocker**
