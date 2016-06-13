@@ -1,8 +1,0 @@
-version: 1
-control-service:
-  hostname: "control-service"
-dataset:
-  backend: "purestorage_driver"
-  san_ip: "10.209.112.100"
-  api_token: "aaaaaaaaaaa-bbbbbbbbbbb-cccccccccccc-dddddddddddd"
-
